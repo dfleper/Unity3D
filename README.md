@@ -9,6 +9,10 @@
 #### Primera escena en Unity 3D. Pruebas de Sprites, Movimientos, Animaciones, Colisiones, Sistema de Partículas, Materiales, Prefabs, Audio, etc...
 - Para familiarizarnos con Unity 3D usaremos Starter Assets - Third Person Character Controller, veremos el funcionamiento de movimientos de sprites, collisiones, sistemas de partículas y sonido.
 
+https://github.com/dfleper/Unity3D/assets/124105822/cf462182-1832-408f-bdd9-88227a7ec288
+
+https://github.com/dfleper/Unity3D/assets/124105822/4b815f2d-2c60-4808-850b-706fd39a4c04
+
 #### 🛠 [Unity](https://unity.com/)
 #### 🛠 [Starter Assets - Third Person Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-urp-196526) 
 #### 🛠 [Visual Studio Code](https://code.visualstudio.com/) 
